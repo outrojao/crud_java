@@ -5,3 +5,8 @@ This CRUD application performs basic operations (add, remove, edit, list) and in
 # WHAT I LEARN?
 - How to use regex in Java with Pattern and Matcher classes;
 - How to write and read .txt files in Java;
+
+# FUTURE PLANS:
+- Conect the program to a database;
+- Implement a simple GUI;
+- Develop a REST API service to process database requests (CRUD operations).
